@@ -24,3 +24,7 @@ Thumbs.db
 .vs/
 bin/
 bld/
+
+platforms/
+plugins/
+

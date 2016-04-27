@@ -39,7 +39,7 @@ module.exports = function makeWebpackConfig() {
    * Reference: http://webpack.github.io/docs/configuration.html#output
    */
   config.output = {
-    path: root('dist'),
+    path: root('www'),
     publicPath: '/',
     filename: 'js/[name].js',
     chunkFilename: '[id].chunk.js'
